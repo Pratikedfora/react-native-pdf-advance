@@ -1,13 +1,13 @@
 {
-    "name": "react-native-pdf",
-    "version": "6.2.0",
+    "name": "react-native-pdf-advance",
+    "version": "1.0.0",
     "summary": "A react native PDF view component",
     "description": "A react native PDF view component, support ios and android platform",
     "main": "index.js",
     "typings": "./index.d.ts",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wonday/react-native-pdf.git"
+        "url": "git+https://github.com/Edfora/react-native-pdf-advance"
     },
     "keywords": [
         "react-component",
@@ -19,13 +19,13 @@
         "viewer"
     ],
     "author": {
-        "name": "Wonday",
-        "url": "https://github.com/wonday"
+        "name": "Edfora",
+        "url": "https://github.com/Edfora"
     },
     "license": "MIT",
-    "homepage": "https://github.com/wonday/react-native-pdf",
+    "homepage": "https://github.com/Edfora/react-native-pdf-advance",
     "bugs": {
-        "url": "https://github.com/wonday/react-native-pdf/issues"
+        "url": "https://github.com/Edfora/react-native-pdf-advance/issues"
     },
     "dependencies": {
         "crypto-js": "^3.2.0",
