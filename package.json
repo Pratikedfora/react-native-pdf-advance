@@ -1,6 +1,6 @@
 {
     "name": "react-native-pdf-advance",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "summary": "A react native PDF view component",
     "description": "A react native PDF view component, support ios and android platform",
     "main": "index.js",
@@ -28,9 +28,24 @@
         "url": "https://github.com/Edfora/react-native-pdf-advance/issues"
     },
     "dependencies": {
-        "crypto-js": "^3.2.0",
-        "prop-types": "^15.7.2",
-        "@react-native-community/progress-bar-android": "^1.0.3",
-        "@react-native-community/progress-view": "^1.0.3"
-    }
+        "crypto-js": "^3.2.0"
+    },
+    "devDependencies": {
+        "prop-types": "^15.7.2"
+    },
+    "files": [
+        "android/",
+        "ios/",
+        "windows/",
+        "DoubleTapView.js",
+        "index.d.ts",
+        "index.js",
+        "index.js.flow",
+        "PdfManager.js",
+        "PdfPageView.js",
+        "PdfView.js",
+        "PdfViewFlatList.js",
+        "PinchZoomView.js",
+        "react-native-pdf.podspec"
+    ]
 }
